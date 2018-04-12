@@ -1,0 +1,2982 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"logg",
+				"loggedIn"
+			],
+			[
+				"createF",
+				"createFetchAction"
+			],
+			[
+				"paddin",
+				"padding-vert-lg\t(App.vue)"
+			],
+			[
+				"na",
+				"navigation"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"ref",
+				"refreshHistory"
+			],
+			[
+				"creat",
+				"creativeContainer"
+			],
+			[
+				"curr",
+				"current"
+			],
+			[
+				"remove",
+				"removelast"
+			],
+			[
+				"hide",
+				"hideNext"
+			],
+			[
+				"nexL",
+				"nextLinkOffset"
+			],
+			[
+				"vie",
+				"view-templates\t(navigator.js)"
+			],
+			[
+				"curre",
+				"currentPage"
+			],
+			[
+				"matchco",
+				"matches-count\t(bracket_ssi.hbs)"
+			],
+			[
+				"lineB",
+				"lineBorder"
+			],
+			[
+				"tt-",
+				"tt-bracket-match__line\t(bracket_ssi.hbs)"
+			],
+			[
+				"winner",
+				"winner-starts\t(bracket_ssi.hbs)"
+			],
+			[
+				"tt-b",
+				"tt-bracket-team\t(bracket_ssi.hbs)"
+			],
+			[
+				"show",
+				"showNotified"
+			],
+			[
+				"cri",
+				"criteoInstance"
+			],
+			[
+				"reque",
+				"requestBids\t(criteo.js)"
+			],
+			[
+				"Cri",
+				"CriteoHandler"
+			],
+			[
+				"response",
+				"responseText"
+			],
+			[
+				"commenst",
+				"comments-list-container\t(view-templates.js)"
+			],
+			[
+				"comments",
+				"comments-list-container\t(comments-list.hbs)"
+			],
+			[
+				"UserCom",
+				"UserCommentsModel"
+			],
+			[
+				"loadMorE",
+				"loadMoreElement"
+			],
+			[
+				"comments-li",
+				"comments-list.ssi\t(user-all-comments.ssi.hbs)"
+			],
+			[
+				"tran",
+				"transparent\t(pagination.styl)"
+			],
+			[
+				"marg",
+				"margin-vert-lg\t(salary-container.hbs)"
+			],
+			[
+				"border",
+				"borderTopRight"
+			],
+			[
+				"lineAf",
+				"lineAfterConnectorDown"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"text",
+				"text-center\t(calculator.hbs)"
+			],
+			[
+				"__share",
+				"__share-text\t(main.styl)"
+			],
+			[
+				"math",
+				"match_cell_height"
+			],
+			[
+				"initial",
+				"initial-matches-count\t(bracket_ssi.hbs)"
+			],
+			[
+				"share",
+				"shareData"
+			],
+			[
+				"getP",
+				"getParamsString"
+			],
+			[
+				"shar",
+				"shareData"
+			],
+			[
+				"sha",
+				"shareData"
+			],
+			[
+				"sala",
+				"salaryInfo"
+			],
+			[
+				"alph",
+				"alpha-salary-styles\t(webpack.config.js)"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"pla",
+				"players_salary_info\t(index.hbs)"
+			],
+			[
+				"back",
+				"background\t(imaginarium.hbs)"
+			],
+			[
+				"sele",
+				"selector"
+			],
+			[
+				"salary_de",
+				"salary_delta_type"
+			],
+			[
+				"resl",
+				"resultBlock"
+			],
+			[
+				"nu",
+				"numberWithSpaces"
+			],
+			[
+				"resul",
+				"resultBlock"
+			],
+			[
+				"js-s",
+				"js-salary-calculator-player\t(salary-container.hbs)"
+			],
+			[
+				"js-sal",
+				"js-salary-calculator-result\t(salary-container.hbs)"
+			],
+			[
+				"dis",
+				"display\t(comments.js)"
+			],
+			[
+				"requ",
+				"request_env.HTTP_HOST\t(main.hbs)"
+			],
+			[
+				"salar",
+				"salary-calculator"
+			],
+			[
+				"lie",
+				"line-height"
+			],
+			[
+				"rag",
+				"rating_delta"
+			],
+			[
+				"wi",
+				"width\t(main.hbs)"
+			],
+			[
+				"top-player",
+				"top-player-item-logo\t(top-player-item.hbs)"
+			],
+			[
+				"tite",
+				"title-badge\t(main.hbs)"
+			],
+			[
+				"title",
+				"title-badge\t(main.hbs)"
+			],
+			[
+				"brain",
+				"branding-layout\t(main.hbs)"
+			],
+			[
+				"SALES",
+				"SALES-1586\t(index.hbs)"
+			],
+			[
+				"detect",
+				"detectAdBlock"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"scroll",
+				"scrollImmediate"
+			],
+			[
+				"scr",
+				"scrollToComments"
+			],
+			[
+				"prepa",
+				"prepareArguments\t(location.js)"
+			],
+			[
+				"bela",
+				"belarus-title"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"qu",
+				"question"
+			],
+			[
+				"curreQu",
+				"currentQuestionText"
+			],
+			[
+				"mar",
+				"margin-sm"
+			],
+			[
+				"join",
+				"joinChallenge\t(app.js)"
+			],
+			[
+				"comp",
+				"components\t(Board.vue)"
+			],
+			[
+				"name",
+				"namespaced"
+			],
+			[
+				"chal",
+				"challenge"
+			],
+			[
+				"start",
+				"startChallenge"
+			],
+			[
+				"cha",
+				"challenge"
+			],
+			[
+				"straC",
+				"startChallengeConf"
+			],
+			[
+				"startCh",
+				"startChallengeConf"
+			],
+			[
+				"createA",
+				"createAsyncActionsConf"
+			],
+			[
+				"createFet",
+				"createFetchMutations\t(index.js)"
+			],
+			[
+				"INIT",
+				"INITIAL_USER_STATE"
+			],
+			[
+				"challe",
+				"challengeId"
+			],
+			[
+				"access",
+				"accessTitle"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"bord",
+				"border-box"
+			],
+			[
+				"transi",
+				"transition-delay"
+			],
+			[
+				"cla",
+				"classList\t(dfp.js)"
+			],
+			[
+				"check",
+				"checkVersion"
+			],
+			[
+				"repl",
+				"reply-comment"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"render",
+				"renderComments"
+			],
+			[
+				"parent_id",
+				"parent_comment_id"
+			],
+			[
+				"par",
+				"parentIdArg"
+			],
+			[
+				"parent",
+				"parent_comment_id"
+			],
+			[
+				"Commen",
+				"Comment"
+			],
+			[
+				"init",
+				"initializeFilters"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"commensho",
+				"comments-show-all-link"
+			],
+			[
+				"initC",
+				"initializeCertainComments"
+			],
+			[
+				"sor",
+				"sortingFilter"
+			],
+			[
+				"user_com",
+				"user_comment_answer\t(updates.js)"
+			],
+			[
+				"link",
+				"linkQuery"
+			],
+			[
+				"defa",
+				"default\t(comments.js)"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"voti",
+				"votingDataForComments"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"userB",
+				"userBanInAllBlogs"
+			],
+			[
+				"Comme",
+				"CommentModel"
+			],
+			[
+				"respo",
+				"response"
+			],
+			[
+				"respon",
+				"responseText"
+			],
+			[
+				"Comm",
+				"CommentModel"
+			],
+			[
+				"isW",
+				"isElementInViewport"
+			],
+			[
+				"time",
+				"timeout"
+			],
+			[
+				"alread",
+				"alreadyViewed"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"alre",
+				"alreadyViewed"
+			],
+			[
+				"bettin",
+				"bettingSubscribeUnblockTime\t(action-appeal.js)"
+			],
+			[
+				"session",
+				"sessionsToUnblockSubscribe\t(action-appeal.js)"
+			],
+			[
+				"no",
+				"notification\t(Notifications.vue)"
+			],
+			[
+				"isOr",
+				"isOrderByRating"
+			],
+			[
+				"succ",
+				"successUserAction"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"pos",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "models.py",
+			"settings":
+			{
+				"buffer_size": 1693,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "testapi.sublime-project",
+			"settings":
+			{
+				"buffer_size": 418,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nemish/projects/test/testapi_app/testapi_app/settings.py",
+			"settings":
+			{
+				"buffer_size": 3854,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nemish/projects/test/testapi_app/client/src/store/index.js",
+			"settings":
+			{
+				"buffer_size": 4537,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nemish/projects/test/testapi_app/client/src/components/Navigation.vue",
+			"settings":
+			{
+				"buffer_size": 1006,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nemish/projects/test/testapi_app/client/index.html",
+			"settings":
+			{
+				"buffer_size": 374,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nemish/projects/test/testapi_app/api/views.py",
+			"settings":
+			{
+				"buffer_size": 613,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nemish/projects/test/testapi_app/client/src/App.vue",
+			"settings":
+			{
+				"buffer_size": 1126,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admin.py",
+			"settings":
+			{
+				"buffer_size": 238,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					""
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (All)"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (This File Only)"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inde",
+		"selected_items":
+		[
+			[
+				"inde",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"ba",
+				"Bookmarks: Clear All"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"dulp",
+				"File: Duplicate"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"setss",
+				"Set Syntax: Stylus"
+			],
+			[
+				"syn",
+				"Set Syntax: Lisp"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"synstyl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"setsyhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"s",
+				"Set Syntax: Stylus"
+			],
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"newfil",
+				"File: New File Relative to Current View"
+			],
+			[
+				"setsyhan",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"insl",
+				"Package Control: Install Package"
+			],
+			[
+				"sq",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"pre",
+				"Pretty JSON: Validate"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ne",
+				"File: New File Relative to Current View"
+			],
+			[
+				"setspy",
+				"Set Syntax: Python"
+			],
+			[
+				"sql",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"bl",
+				"Git: Blame"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"setsyba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"setsybab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"set sybab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"q",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"anf",
+				"ANF: Copy Current File"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"bal",
+				"Bookmarks: Clear All"
+			],
+			[
+				"js ba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"prety",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretyy",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"jso",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"pacins",
+				"Package Control: Install Package"
+			],
+			[
+				"prejs",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"js pr",
+				"Format: Javascript"
+			],
+			[
+				"pain",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"sejs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sesypy",
+				"Set Syntax: Python"
+			],
+			[
+				"sesyjsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"setsy",
+				"Set Syntax: JSX"
+			],
+			[
+				"setsyjsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"int",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"bls",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"diff",
+				"Git: Diff Staged Files"
+			],
+			[
+				"gitmer",
+				"Git: Merge Branch"
+			],
+			[
+				"replpy",
+				"SublimeREPL: Python"
+			],
+			[
+				"pydo",
+				"Python 2 Doc Search (PyDOC)"
+			],
+			[
+				"b",
+				"Git: Blame"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"difs",
+				"Git: Diff Staged Files"
+			],
+			[
+				"difsta",
+				"Git: Diff Staged Files"
+			],
+			[
+				"stage",
+				"Git: Diff Staged Files"
+			],
+			[
+				"gitdif",
+				"Git: Diff Staged Files"
+			],
+			[
+				"blma",
+				"Git: Blame"
+			],
+			[
+				"ana",
+				"Anaconda: Run Current File Tests"
+			],
+			[
+				"anatest",
+				"Anaconda: Run Current File Tests"
+			],
+			[
+				"insp",
+				"Package Control: Install Package"
+			],
+			[
+				"blame",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"Snippet: my",
+				"Snippet: my-py-objectsGet"
+			],
+			[
+				"ble",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"sepy",
+				"Set Syntax: Python"
+			],
+			[
+				"sypy",
+				"Set Syntax: Python"
+			],
+			[
+				"sybla",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"dif",
+				"Git: Diff Staged Files"
+			],
+			[
+				"snipp",
+				"Snippet: my-py-baseCommand"
+			],
+			[
+				"diffs",
+				"Git: Diff Staged Files"
+			],
+			[
+				"diffsta",
+				"Git: Diff Staged Files"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"dista",
+				"Git: Diff Staged Files"
+			],
+			[
+				"gi",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"g",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"git",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"gitlog",
+				"Git: Log Current File"
+			],
+			[
+				"diffst",
+				"Git: Diff Staged Files"
+			],
+			[
+				"che",
+				"Git: Change Branch"
+			],
+			[
+				"#!",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 393.0,
+		"history":
+		[
+			"line.begin()",
+			"line",
+			"line = view.line(view.sel()[0])",
+			"match.group(0)",
+			"match.group(1)",
+			"match = re.match(r\"\\s*(\\d+).+\", view.substr(view.line(view.sel()[0])))",
+			"import re",
+			"match = re.match(r\"\\s*(\\d+).+\", view.substr(view.line(view.sel()[0])))",
+			"view.substr(view.line(view.sel()[0]))",
+			"view.line(view.sel()[0])",
+			"view.sel()[0]",
+			"len(view.sel())",
+			"view.sel()",
+			"view.get_line_no",
+			"dir(view)",
+			"view.name()",
+			"view",
+			"self",
+			"view.line(view.sel()[0])",
+			"view.sel()[0]",
+			"view.sel()",
+			"view",
+			"view.substr()",
+			"view.file_name()",
+			"view.buffer_id()",
+			"view.name()",
+			"view",
+			"self",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"view.window().get_view_index(view)",
+			"view.window().id()",
+			"view.window()",
+			"view.rowcol()",
+			"view.id()",
+			"view",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"l",
+			"sublime.log_commands(True)",
+			"sublime.run_command(\"goto_symbol_in_project\", [\"get_file_with_headers\"])\n",
+			"sublime.run_command(\"goto_symbol_in_project\", \"get_file_with_headers\")\n",
+			"sublime.run_command(\"goto_symbol_in_project\")\n",
+			"sublime.run_command(\"goto_symbol_in_project\", \"object_modify\")\n",
+			"sublime.run_command(\"goto_symbol_in_project\", \"request_act_printing_form\")\n",
+			"sublime.log_commands(True)",
+			"sublime",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ls",
+			"import os",
+			"ls",
+			"1 + 1",
+			"..",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nemish/projects/test/testapi_app"
+	],
+	"file_history":
+	[
+		"/Users/nemish/projects/test/testapi_app/client/src/main.js",
+		"/Users/nemish/projects/test/testapi_app/client/src/utils/actions.js",
+		"/Users/nemish/projects/test/testapi_app/client/src/router/index.js",
+		"/Users/nemish/projects/test/testapi_app/client/src/components/Shipments.vue",
+		"/Users/nemish/projects/test/testapi_app/manage.py",
+		"/Users/nemish/projects/test/testapi_app/shipments/models.py",
+		"/Users/nemish/projects/test/testapi_app/testapi_app/settings.py",
+		"/Users/nemish/projects/test/testapi_app/testapi_app/urls.py",
+		"/Users/nemish/projects/test/testapi_app/api/templates/index.html",
+		"/Users/nemish/projects/test/testapi_app/api/urls.py",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/comment-item/comment-item.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/mobile/common/dfp-banner/dfp-banner.js",
+		"/Users/nemish/projects/sports2/static/static/source/mobile/common/dfp-banner/dfp-banner-fullscreen-close.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/mobile/common/dfp-banner/dfp-banner.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/mobile/common/fullscreen/fullscreen.styl",
+		"/Users/nemish/projects/sports2/static/package.json",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/banners/views/dfp/dfp.js",
+		"/Users/nemish/projects/sports2/static/static/source/mobile/common/dfp-banner/dfp-fullscreen-close-btn.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/assets/svg-sprites/common/ic_official_account.svg",
+		"/Users/nemish/projects/sports2/static/static/source/assets/svg-sprites/common/mobile_fullscreen_ad_close.svg",
+		"/Users/nemish/projects/sports2/static/static/source/mobile/sections/bets/feedback-item/feedback-item.hbs",
+		"/Users/nemish/Downloads/fullscreen-close.svg",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/sections/blogs/views/navigation/index.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/navigator/navigator-item.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/user-comments/user-comments.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/user-comments/user-all-comments.ssi.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/desktop/common/views/navigator/view-templates.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/navigator/navigator.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/sections/bets/views/ratings-item-widget/ratings-item-widget.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/gulpfile.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/navigator/view-templates.js",
+		"/Users/nemish/projects/sports2/static/static/source/desktop/gulpfile.js",
+		"/Users/nemish/projects/sports2/static/static/source/desktop/common/main.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/sections/bets/views/ratings-item-widget/view-templates.js",
+		"/Users/nemish/projects/sports2/static/static/source/desktop/sections/bets/views/ratings-item-widget/view-templates.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/user-comments/view-templates.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/notifications-center/notifications-center-for_old.js",
+		"/Users/nemish/projects/sports2/static/gulpfile.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/navigator/navigator.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_partials/navigator/navigator-item.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/special/2017/footballmatrix/blocks/navigation/navigation.hbs",
+		"/Users/nemish/projects/sports2/static/Gruntfile.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/sections/blogs/views/right-column/right-column.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/blogs/feed.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/models/user-comments.js",
+		"/Users/nemish/projects/sports2/static/static/source/core/view.coffee",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/pagination/pagination.js",
+		"/Users/nemish/projects/sports2/static/static/source/utils/criteo.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/header/header.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/pager/pager.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/nba/stage/data/ua-menu-mobile.json",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/bracket/bracket_ssi.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/nba/master/header/header.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/bracket/bracket.ssi.styl",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/nba/master/data/ua-menu-mobile.json",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/nba/stage/data/ru-menu-mobile.json",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/nba/master/data/ru-menu-mobile.json",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/nba/stage/data/ru-menu.json",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/nba/master/data/ru-menu.json",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/nba/stage/data/ua-menu.json",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/nba/master/data/ua-menu.json",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/nba/stage/data/by-menu.json",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/nba/master/data/by-menu.json",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/nba/master/data/by-menu-mobile.json",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/nba/stage/data/by-menu-mobile.json",
+		"/Users/nemish/projects/sports2/static/static/source/assets/tmp-bracket.json",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/article/article.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/layouts/main.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/aliens/views/SALES-1597/content.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/mobile/common/block-visible/block-visible.js",
+		"/Users/nemish/projects/sports2/static/static/source/mobile/common/header/nba-header.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/aliens/views/SALES-1597/main.styl",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/models/tags.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/footer/footer.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/aliens/views/SALES-1597/main.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/layouts/two-columns.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/sections/blogs/views/post/header.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/webpack.config.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/models/account.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/footer/footer_ru.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/gtm/gtm.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/sections/article/views/article-item/article-item.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/sandbox/SALES-1597.html",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/comments/comments.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/user-panel/user-panel.js",
+		"/Users/nemish/projects/sports2/static/static/source/desktop/common/views/user-panel/user-panel.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/float/float.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/comments/comments.client.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/sections/user/views/login/login.js",
+		"/Users/nemish/projects/sports2/static/static/source/mobile/common/plista/plista.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/common.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/auth-block/auth-block.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/blogs/post.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/section/index.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/models/comment.js",
+		"/Users/nemish/projects/sports2/static/static/source/utils/segmento.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/sections/user/views/feed/feed.js",
+		"/Users/nemish/projects/sports2/static/index.html",
+		"/Users/nemish/projects/sports2/static/static/source/utils/location.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/sections/blogs/views/feed/feed-item.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/sections/user/views/feed/item.client.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/desktop/common/views/body.coffee",
+		"/Users/nemish/projects/sports2/static/static/source/utils/http.js",
+		"/Users/nemish/projects/sports2/static/static/legacy/ontico/js/bower_components/angular-translate/angular-translate.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/user-comments/comments-list.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/user-comments/comments-list-container.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_partials/user-comments/comment.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/desktop/main.js",
+		"/Users/nemish/projects/sports2/static/static/source/utils/main.js",
+		"/Users/nemish/projects/sports2/static/static/source/utils/test/index.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/blog-posts/blog-posts__list-items.client.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/sandbox/PERSONAL-569-2.html",
+		"/Users/nemish/projects/sports2/static/static/source/mobile/sections/blogs/feed-lenta/feed-lenta__items.hbs",
+		"/Users/nemish/projects/sports2/static/static/fantasy/promo/js/main.js",
+		"/Users/nemish/projects/sports2/static/static/common/coffee/bridge.coffee",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/user-comments/comments-list.ssi.styl",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/sections/user/views/feed/item-wrapper.client.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/blog-posts/blog-posts.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/voting/voting.client.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/user/feed/feed.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/user/feed.js",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/pagination/pagination-content.client.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/common/views/pagination/pagination.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/mobile/pages/article/blog-post.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/_desktop/pages/ssi/user-comments/user-comments.ssi.styl",
+		"/Users/nemish/projects/sports2/static/static/source/mobile/pages/article/article.hbs",
+		"/Users/nemish/projects/sports2/static/static/source/mobile/common/social-buttons/social-buttons.js",
+		"/Users/nemish/projects/sports2/static/static/source/mobile/sections/blogs/feed-lenta/feed-lenta.hbs"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+			"-*/node_modules/*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"props",
+			"fetchUser",
+			"user",
+			"registerUser",
+			"HelloWorld",
+			"FECTH_CURRENT_USER",
+			"register",
+			"url",
+			"LOGOUT",
+			"LOGIN",
+			"FECTH_CURRENT_USER",
+			"graph",
+			"graphql",
+			" 0",
+			"h1",
+			"'",
+			"div",
+			"HelloWorld",
+			"__unicode__",
+			"\"",
+			"SET_NULL",
+			"ination",
+			"polls"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1693,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								975,
+								975
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 21
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "testapi.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/nemish/projects/test/testapi_app/testapi_app/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1260,
+								1260
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 6
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/nemish/projects/test/testapi_app/client/src/store/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								662,
+								662
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"highlight_line": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 9
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/nemish/projects/test/testapi_app/client/src/components/Navigation.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								597,
+								597
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 6
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/nemish/projects/test/testapi_app/client/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								282,
+								282
+							]
+						],
+						"settings":
+						{
+							"SL.43.region_keys":
+							[
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot"
+							],
+							"SL.93.region_keys":
+							[
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"sublime_linter.protected_regions",
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32"
+							],
+							"SL.97.region_keys":
+							[
+								"SL.htmltidy.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.htmltidy.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+								"sublime_linter.protected_regions"
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 7
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/nemish/projects/test/testapi_app/api/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								358,
+								358
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"highlight_line": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 43
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/nemish/projects/test/testapi_app/client/src/App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								425,
+								425
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								205,
+								205
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"highlight_line": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 30
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 102.0
+	},
+	"output.exec":
+	{
+		"height": 395.0
+	},
+	"output.find_results":
+	{
+		"height": 375.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "testapi.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"storeinde",
+				"client/src/store/index.js"
+			],
+			[
+				"mode",
+				"shipments/models.py"
+			],
+			[
+				"setti",
+				"testapi_app/settings.py"
+			],
+			[
+				"main",
+				"client/src/main.js"
+			],
+			[
+				"mainjs",
+				"client/src/main.js"
+			],
+			[
+				"navvu",
+				"client/src/components/Nav.vue"
+			],
+			[
+				"routeinde",
+				"client/src/router/index.js"
+			],
+			[
+				"model",
+				"shipments/models.py"
+			],
+			[
+				"settin",
+				"testapi_app/settings.py"
+			],
+			[
+				"ship",
+				"client/src/components/Shipments.vue"
+			],
+			[
+				"appvu",
+				"client/src/App.vue"
+			],
+			[
+				"hellwo",
+				"client/src/components/HelloWorld.vue"
+			],
+			[
+				"mana",
+				"manage.py"
+			],
+			[
+				"urls",
+				"testapi_app/urls.py"
+			],
+			[
+				"commenhbs",
+				"static/source/_partials/user-comments/comment.hbs"
+			],
+			[
+				"commehbs",
+				"static/source/_desktop/common/views/comment-item/comment-item.hbs"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"navi",
+				"static/source/_desktop/common/views/navigator/navigator.js"
+			],
+			[
+				"user",
+				"static/source/_desktop/common/models/user-comments.js"
+			],
+			[
+				"fulls",
+				"static/source/mobile/common/fullscreen/fullscreen.js"
+			],
+			[
+				"is_offi",
+				"static/source/assets/svg-sprites/common/ic_official_account.svg"
+			],
+			[
+				"naviitem",
+				"static/source/_desktop/common/views/navigator/navigator-item.hbs"
+			],
+			[
+				"navigator/navigator",
+				"static/source/_desktop/common/views/navigator/navigator.hbs"
+			],
+			[
+				"userall",
+				"static/source/_desktop/pages/ssi/user-comments/user-all-comments.ssi.hbs"
+			],
+			[
+				"_degulp",
+				"static/source/_desktop/gulpfile.js"
+			],
+			[
+				"userallcom",
+				"static/source/_desktop/pages/ssi/user-comments/user-all-comments.ssi.hbs"
+			],
+			[
+				"deskgulp",
+				"static/source/desktop/gulpfile.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"view",
+				"static/source/desktop/sections/bets/views/ratings-item-widget/view-templates.js"
+			],
+			[
+				"vietemp",
+				"static/source/_desktop/sections/bets/views/ratings-item-widget/view-templates.js"
+			],
+			[
+				"noticefo",
+				"static/source/_desktop/common/views/notifications-center/notifications-center-for_old.js"
+			],
+			[
+				"_desktop/common/views/navigator/navigator-item.hbs",
+				"static/source/_desktop/common/views/navigator/navigator-item.hbs"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"desgulp",
+				"static/source/desktop/gulpfile.js"
+			],
+			[
+				"naviga",
+				"static/source/_desktop/common/views/navigator/navigator.js"
+			],
+			[
+				"blognaviind",
+				"static/source/_desktop/sections/blogs/views/navigation/index.js"
+			],
+			[
+				"blognavi",
+				"static/source/special/2017/footballmatrix/blocks/navigation/navigation.hbs"
+			],
+			[
+				"modusec",
+				"static/source/_desktop/common/models/user-comments.js"
+			],
+			[
+				"usercom",
+				"static/source/_desktop/common/views/user-comments/user-comments.js"
+			],
+			[
+				"crite",
+				"static/source/utils/criteo.js"
+			],
+			[
+				"views/navigator/navigator",
+				"static/source/_desktop/common/views/navigator/navigator.hbs"
+			],
+			[
+				"corevie",
+				"static/source/core/view.coffee"
+			],
+			[
+				"core/view",
+				"static/source/core/view.coffee"
+			],
+			[
+				"_deskgulp",
+				"static/source/_desktop/gulpfile.js"
+			],
+			[
+				"navigator/navigator-item.hbs",
+				"static/source/_desktop/common/views/navigator/navigator-item.hbs"
+			],
+			[
+				"navigjs",
+				"static/source/_desktop/common/views/navigator/navigator.js"
+			],
+			[
+				"deskpager",
+				"static/source/_desktop/common/views/pager/pager.js"
+			],
+			[
+				"paginajs",
+				"static/source/_desktop/common/views/pagination/pagination.js"
+			],
+			[
+				"viusercomm",
+				"static/source/_desktop/common/views/user-comments/user-comments.js"
+			],
+			[
+				"modelusercom",
+				"static/source/_desktop/common/models/user-comments.js"
+			],
+			[
+				"packjs",
+				"package.json"
+			],
+			[
+				"uamemob",
+				"static/source/_desktop/pages/ssi/nba/stage/data/ua-menu-mobile.json"
+			],
+			[
+				"ru-menmob",
+				"static/source/_desktop/pages/ssi/nba/master/data/ua-menu-mobile.json"
+			],
+			[
+				"rumenu",
+				"static/source/_desktop/pages/ssi/nba/stage/data/ru-menu-mobile.json"
+			],
+			[
+				"rumenmo",
+				"static/source/_desktop/pages/ssi/nba/master/data/ru-menu-mobile.json"
+			],
+			[
+				"rume",
+				"static/source/_desktop/pages/ssi/nba/stage/data/ru-menu.json"
+			],
+			[
+				"ru-me",
+				"static/source/_desktop/pages/ssi/nba/master/data/ru-menu.json"
+			],
+			[
+				"uame",
+				"static/source/_desktop/pages/ssi/nba/stage/data/ua-menu.json"
+			],
+			[
+				"uamen",
+				"static/source/_desktop/pages/ssi/nba/master/data/ua-menu.json"
+			],
+			[
+				"bymen",
+				"static/source/_desktop/pages/ssi/nba/stage/data/by-menu.json"
+			],
+			[
+				"bymemo",
+				"static/source/_desktop/pages/ssi/nba/stage/data/by-menu-mobile.json"
+			],
+			[
+				"bymemob",
+				"static/source/_desktop/pages/ssi/nba/master/data/by-menu-mobile.json"
+			],
+			[
+				"uam",
+				"static/source/_desktop/pages/ssi/nba/master/data/ua-menu.json"
+			],
+			[
+				"ua-memo",
+				"static/source/_desktop/pages/ssi/nba/master/data/ua-menu-mobile.json"
+			],
+			[
+				"rumenumo",
+				"static/source/_desktop/pages/ssi/nba/master/data/ru-menu-mobile.json"
+			],
+			[
+				"ua-me",
+				"static/source/_desktop/pages/ssi/nba/master/data/ua-menu.json"
+			],
+			[
+				"by-me",
+				"static/source/_desktop/pages/ssi/nba/master/data/by-menu.json"
+			],
+			[
+				"ru-menu.json",
+				"static/source/_desktop/pages/ssi/nba/master/data/ru-menu.json"
+			],
+			[
+				"brackst",
+				"static/source/_desktop/pages/ssi/bracket/bracket.ssi.styl"
+			],
+			[
+				"brackss",
+				"static/source/_desktop/pages/ssi/bracket/bracket_ssi.hbs"
+			],
+			[
+				"tmp-b",
+				"static/source/assets/tmp-bracket.json"
+			],
+			[
+				"static/source/_desktop/layouts/main.hbs",
+				"static/source/_desktop/layouts/main.hbs"
+			],
+			[
+				"mainhb",
+				"static/source/_desktop/layouts/main.hbs"
+			],
+			[
+				"blockvi",
+				"static/source/mobile/common/block-visible/block-visible.js"
+			],
+			[
+				"mainhbs",
+				"static/source/_desktop/layouts/main.hbs"
+			],
+			[
+				"twocol",
+				"static/source/_desktop/layouts/two-columns.hbs"
+			],
+			[
+				"articlh",
+				"static/source/_desktop/pages/article/article.hbs"
+			],
+			[
+				"tags",
+				"static/source/_desktop/common/models/tags.js"
+			],
+			[
+				"_desweb",
+				"static/source/_desktop/webpack.config.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"_desktop/common/views/footer/footer_ru",
+				"static/source/_desktop/common/views/footer/footer_ru.hbs"
+			],
+			[
+				"_desktop/common/views/gtm/gtm",
+				"static/source/_desktop/common/views/gtm/gtm.hbs"
+			],
+			[
+				"_desktop/common/views/footer/footer",
+				"static/source/_desktop/common/views/footer/footer.hbs"
+			],
+			[
+				"articl",
+				"static/source/_desktop/pages/article/article.hbs"
+			],
+			[
+				"articlhb",
+				"static/source/_desktop/pages/article/article.hbs"
+			],
+			[
+				"mainh",
+				"static/source/_desktop/layouts/main.hbs"
+			],
+			[
+				"article-item/article-item",
+				"static/source/_desktop/sections/article/views/article-item/article-item.hbs"
+			],
+			[
+				"crito",
+				"static/source/utils/criteo.js"
+			],
+			[
+				"dfp.js",
+				"static/source/_desktop/banners/views/dfp/dfp.js"
+			],
+			[
+				"usercomm",
+				"static/source/_desktop/common/models/user-comments.js"
+			],
+			[
+				"float.js",
+				"static/source/_desktop/common/views/float/float.js"
+			],
+			[
+				"user-panjs",
+				"static/source/desktop/common/views/user-panel/user-panel.js"
+			],
+			[
+				"_deskcommenjs",
+				"static/source/_desktop/common/models/comment.js"
+			],
+			[
+				"accoun.js",
+				"static/source/_desktop/common/models/account.js"
+			],
+			[
+				"login.js",
+				"static/source/_desktop/sections/user/views/login/login.js"
+			],
+			[
+				"utilsloca",
+				"static/source/utils/location.js"
+			],
+			[
+				"plista",
+				"static/source/mobile/common/plista/plista.js"
+			],
+			[
+				"combody",
+				"static/source/desktop/common/views/body.coffee"
+			],
+			[
+				"_desktopcommejs",
+				"static/source/_desktop/common/views/comments/comments.js"
+			],
+			[
+				"_partials/user-comments/comment",
+				"static/source/_partials/user-comments/comment.hbs"
+			],
+			[
+				"user-comments/comments-list-container",
+				"static/source/_desktop/common/views/user-comments/comments-list-container.hbs"
+			],
+			[
+				"commsshb",
+				"static/source/_desktop/common/views/user-comments/comments-list.hbs"
+			],
+			[
+				"source/desktop/main.js",
+				"static/source/desktop/main.js"
+			],
+			[
+				"utilsseg",
+				"static/source/utils/segmento.js"
+			],
+			[
+				"utils/segmento",
+				"static/source/utils/segmento.js"
+			],
+			[
+				"perso",
+				"static/source/sandbox/PERSONAL-569-2.html"
+			],
+			[
+				"usercomcomlih",
+				"static/source/_desktop/common/views/user-comments/comments-list.hbs"
+			],
+			[
+				"dfp",
+				"static/source/_desktop/banners/views/dfp/dfp.js"
+			],
+			[
+				"static/source/sandbox/personal-569-2.html",
+				"static/source/sandbox/PERSONAL-569-2.html"
+			],
+			[
+				"blog-posts__list-items.client",
+				"static/source/_desktop/common/views/blog-posts/blog-posts__list-items.client.hbs"
+			],
+			[
+				"voting/voting.client",
+				"static/source/_desktop/common/views/voting/voting.client.hbs"
+			],
+			[
+				"sanperso",
+				"static/source/sandbox/PERSONAL-569-2.html"
+			],
+			[
+				"modusercom",
+				"static/source/_desktop/common/models/user-comments.js"
+			],
+			[
+				"static/source/_desktop/common/views/user-comments/user-comments.js",
+				"static/source/_desktop/common/views/user-comments/user-comments.js"
+			],
+			[
+				"/pagination/pagination",
+				"static/source/_desktop/common/views/pagination/pagination.hbs"
+			],
+			[
+				"pagination/pagination",
+				"static/source/_desktop/common/views/pagination/pagination-content.client.hbs"
+			],
+			[
+				"feed-lenta/feed-lenta__items",
+				"static/source/mobile/sections/blogs/feed-lenta/feed-lenta__items.hbs"
+			],
+			[
+				"blogs/views/feed/feeitem",
+				"static/source/_desktop/sections/blogs/views/feed/feed-item.hbs"
+			],
+			[
+				"/blogs/views/feed/fee",
+				"static/source/_desktop/sections/blogs/views/feed/feed.hbs"
+			],
+			[
+				"article/views/articl",
+				"static/source/_desktop/sections/article/views/article-item/article-item.hbs"
+			],
+			[
+				"voticli",
+				"static/source/_desktop/common/views/voting/voting.client.hbs"
+			],
+			[
+				"_dmodcomm",
+				"static/source/_desktop/common/models/comment.js"
+			],
+			[
+				"socibujs",
+				"static/source/mobile/common/social-buttons/social-buttons.js"
+			],
+			[
+				"showmo",
+				"static/source/_desktop/common/views/show-more/show-more.js"
+			],
+			[
+				"pager",
+				"static/source/_desktop/common/views/pager/pager.js"
+			],
+			[
+				"pagination-content.client",
+				"static/source/_desktop/common/views/pagination/pagination-content.client.hbs"
+			],
+			[
+				"paginahb",
+				"static/source/_desktop/common/views/pagination/pagination.hbs"
+			],
+			[
+				"pagerjs",
+				"static/source/_desktop/common/views/pager/pager.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/sites/legoband/legoband.sublime-project"
+			],
+			[
+				"cu",
+				"~/projects/unity/cubematters/Assets/scripts/cubematters.sublime-project"
+			],
+			[
+				"lib",
+				"~/projects/libs/libs.sublime-project"
+			],
+			[
+				"le",
+				"~/projects/sites/legoband/legoband.sublime-project"
+			],
+			[
+				"lego",
+				"~/projects/sites/legoband/legoband.sublime-project"
+			],
+			[
+				"lie",
+				"~/projects/sites/legoband/legoband.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 29.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"handleCreateChallenge",
+				"handleCreateChallenge"
+			],
+			[
+				"createFetchReducer",
+				"createFetchReducer"
+			],
+			[
+				"createAsyncAction",
+				"createAsyncAction"
+			],
+			[
+				"createFetchAction",
+				"createFetchAction"
+			],
+			[
+				"loads",
+				"loadScript"
+			],
+			[
+				"loadsc",
+				"LoadScript"
+			],
+			[
+				"linkque",
+				"getLinkQuery"
+			],
+			[
+				"render",
+				"render"
+			],
+			[
+				"createasy",
+				"createAsyncAction"
+			],
+			[
+				"boar",
+				"Board"
+			],
+			[
+				"handuser",
+				"handleUser"
+			],
+			[
+				"comppass",
+				"comparePassword"
+			],
+			[
+				"comparep",
+				"CompareProducts"
+			],
+			[
+				"",
+				"#post should lazily make a method hookable"
+			],
+			[
+				"compapas",
+				"comparePassword"
+			],
+			[
+				"chall",
+				"Challenge"
+			],
+			[
+				"challe",
+				"Challenge"
+			],
+			[
+				"joinch",
+				"joinChallenge"
+			],
+			[
+				"creasy",
+				"createAsyncAction"
+			],
+			[
+				"setTokenToApp",
+				"setTokenToApp"
+			],
+			[
+				"handleUser",
+				"handleUser"
+			],
+			[
+				"createAsy",
+				"createAsyncAction"
+			],
+			[
+				"fetchCurrentUser",
+				"fetchCurrentUser"
+			],
+			[
+				"compareP",
+				"comparePassword"
+			],
+			[
+				"createAsyncActionsConf",
+				"createAsyncActionsConf"
+			],
+			[
+				"createFor",
+				"createFormReducer"
+			],
+			[
+				"gene",
+				"GenerateStatReportTask"
+			],
+			[
+				"createdatran",
+				"create_date_range"
+			],
+			[
+				"getstatre",
+				"get_stats_report"
+			],
+			[
+				"data",
+				"DataSourceAPI"
+			],
+			[
+				"statre",
+				"StatReport"
+			],
+			[
+				"baseq",
+				"BaseQuerySet"
+			],
+			[
+				"Genera",
+				"GenerateStatReportTask"
+			],
+			[
+				"createformre",
+				"createFormReducer"
+			],
+			[
+				"initstare",
+				"init_stats_reports"
+			],
+			[
+				"createFormActions",
+				"createFormActions"
+			],
+			[
+				"genera",
+				"GenerateStatReportTask"
+			],
+			[
+				"apisto",
+				"ApiStorage"
+			],
+			[
+				"api",
+				"ApiStorage"
+			],
+			[
+				"getstatrepo",
+				"_get_stat_report"
+			],
+			[
+				"chekpro",
+				"CheckProblemsTask"
+			],
+			[
+				"csv",
+				"StatsPerDayTotalCSVExporter"
+			],
+			[
+				"stabu",
+				"StatsXlsBannerBuilder"
+			],
+			[
+				"starepohe",
+				"StatReportHelper"
+			],
+			[
+				"getdirecamp",
+				"get_direct_campaigns"
+			],
+			[
+				"datasou",
+				"DataSourceAPI"
+			],
+			[
+				"getstamo",
+				"get_stat_models"
+			],
+			[
+				"xlto",
+				"xls_to_response"
+			],
+			[
+				"xslbuilder",
+				"BannersInfoXlsBuilder"
+			],
+			[
+				"memo",
+				"memoized"
+			],
+			[
+				"getads",
+				"get_ads"
+			],
+			[
+				"bot",
+				"BotManagerBaseTask"
+			],
+			[
+				"creafe",
+				"createFetchReducer"
+			],
+			[
+				"proble",
+				"Problem"
+			],
+			[
+				"creaasyn",
+				"createAsyncAction"
+			],
+			[
+				"createModalActions",
+				"createModalActions"
+			],
+			[
+				"adsycam",
+				"AdSystemCampaign"
+			],
+			[
+				"datares",
+				"DataResource"
+			],
+			[
+				"marker_status_name",
+				"marker_status_name"
+			],
+			[
+				"_loadMarkerCompanies",
+				"_loadMarkerCompanies"
+			],
+			[
+				"markdi",
+				"MarkDirectCampaigns"
+			],
+			[
+				"apis",
+				"ApiStorage"
+			],
+			[
+				"seleapi",
+				"SelectelCdnApi"
+			],
+			[
+				"markdire",
+				"MarkDirectCampaigns"
+			],
+			[
+				"base",
+				"BotManagerBaseTask"
+			],
+			[
+				"monbor",
+				"month_border_dates"
+			],
+			[
+				"datera",
+				"DateRange"
+			],
+			[
+				"jsonsu",
+				"json_success_response"
+			],
+			[
+				"geneapi",
+				"GenericModelAPI"
+			],
+			[
+				"req",
+				"RequestParser"
+			],
+			[
+				"botb",
+				"BotManagerBaseCommand"
+			],
+			[
+				"tab",
+				"TabulaBaseTask"
+			],
+			[
+				"comtask",
+				"RefreshCostWithCommissionTask"
+			],
+			[
+				"reqpa",
+				"RequestParser"
+			],
+			[
+				"projec",
+				"Project"
+			],
+			[
+				"projha",
+				"ProjectHandler"
+			],
+			[
+				"projtoda",
+				"ProjectToDataResource"
+			],
+			[
+				"statrep",
+				"StatReport"
+			],
+			[
+				"marad",
+				"MarkAdwordsCampaigns"
+			],
+			[
+				"fetchstab",
+				"fetch_stats_by_fn"
+			],
+			[
+				"usertuser",
+				"UserToUserGroup"
+			],
+			[
+				"role",
+				"Role"
+			],
+			[
+				"revokpe",
+				"revoke_pending_tasks_and_get_dr_relations_ids"
+			],
+			[
+				"gastat",
+				"GAStat"
+			],
+			[
+				"deletsta",
+				"delete_all_stats"
+			],
+			[
+				"adsysta",
+				"AdSystemTaskSetter"
+			],
+			[
+				"adsystasse",
+				"AdSystemTaskSetter"
+			],
+			[
+				"call",
+				"CalltouchStat"
+			],
+			[
+				"filmus",
+				"filter_must_be_collected"
+			],
+			[
+				"ya",
+				"YandexDirectClient"
+			],
+			[
+				"fetchs",
+				"fetch_stats_by_fn"
+			],
+			[
+				"fetc",
+				"fetch_stats"
+			],
+			[
+				"task",
+				"Task"
+			],
+			[
+				"colgata",
+				"CollectGATask"
+			],
+			[
+				"coladwota",
+				"CollectAdwordsTask"
+			],
+			[
+				"setout",
+				"_set_output"
+			],
+			[
+				"bo",
+				"BotManagerBaseTask"
+			],
+			[
+				"_getprein",
+				"_get_prepared_input"
+			],
+			[
+				"coldeita",
+				"CollectDirectTask"
+			],
+			[
+				"gettexads",
+				"get_text_ads"
+			],
+			[
+				"callsta",
+				"CalltouchStat"
+			],
+			[
+				"campta",
+				"CampaignTag"
+			],
+			[
+				"dataso",
+				"DataSourceAPI"
+			],
+			[
+				"botmab",
+				"BotManagerBaseTask"
+			],
+			[
+				"vali",
+				"validate"
+			],
+			[
+				"get_populated_types",
+				"get_populated_types"
+			],
+			[
+				"filter_to_populate",
+				"filter_to_populate"
+			],
+			[
+				"popda",
+				"PopulateDataSourceAPITask"
+			],
+			[
+				"callstaha",
+				"CalltouchStatsHandler"
+			],
+			[
+				"botma",
+				"BotManagerBaseTask"
+			],
+			[
+				"callstata",
+				"CalltouchStatsTask"
+			],
+			[
+				"stotass",
+				"StopTaskSuccess"
+			],
+			[
+				"projetoda",
+				"ProjectToDataResource"
+			],
+			[
+				"coldire",
+				"CollectDirectTask"
+			],
+			[
+				"getexsi",
+				"_get_existing_items"
+			],
+			[
+				"coldireta",
+				"CollectDirectTask"
+			],
+			[
+				"coldi",
+				"CollectDirectTask"
+			],
+			[
+				"botmata",
+				"BotManagerBaseTask"
+			],
+			[
+				"get_banners_on_ids_map",
+				"get_banners_on_ids_map"
+			],
+			[
+				"item",
+				"ItemBulkImporter"
+			],
+			[
+				"Colldir",
+				"CollectDirectTask"
+			],
+			[
+				"collana",
+				"CollectAnalyticsDirectTask"
+			],
+			[
+				"collanadi",
+				"CollectAnalyticsDirectTask"
+			],
+			[
+				"colandita",
+				"CollectAnalyticsDirectTask"
+			],
+			[
+				"direphf",
+				"DirectPhrasesFromStatsV5Creator"
+			],
+			[
+				"direphcre",
+				"DirectPhrasesFromStatsCreator"
+			],
+			[
+				"getmarkse",
+				"get_marker_utm_settings"
+			],
+			[
+				"delete_all_stats",
+				"delete_all_stats"
+			]
+		],
+		"width": 759.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "fetchCurrentUser",
+		"_vintageous_last_buffer_search_command": "vi_octothorp",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/Users/nemish/projects/test/testapi_app/client"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
